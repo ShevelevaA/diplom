@@ -1,0 +1,2 @@
+C:\Users\Irina\Desktop\Диплом\project_admin\project_admin\bin\Debug\project_admin.exe.config
+C:\Users\lena\Desktop\Диплом\project_admin\project_admin\bin\Debug\project_admin.exe.config
